@@ -1,0 +1,23 @@
+
+.input label{
+	margin-left: 9px;
+}
+.input input{
+	margin-left: 9px;
+}
+.input select{
+	width: 100%;
+	height: 30px;
+}
+.col-md-6 {
+	margin-left: 9px;
+}
+.button{
+	margin-left: 9px;
+}
+.form-group input{
+	margin-top: 15px;
+	margin-left: 25px;
+
+}
+
